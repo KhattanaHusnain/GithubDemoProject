@@ -18,5 +18,7 @@ class MainActivity : AppCompatActivity() {
         }
         // Comment added by husnain
         // 2nd comment added by Husnain
+        // Comment Added by Mujahid
+        // 2nd comment added by Mujahid
     }
 }
